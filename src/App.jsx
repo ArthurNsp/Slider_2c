@@ -50,7 +50,7 @@ function App() {
         </section>
         <section className="destaque"></section>
 
-        <iframe src="https://www.youtube.com/embed/p7cDN1ofIw0?autoplay=1&mute=1&controls=0&loop=1&playlist=p7cDN1ofIw0&modestbranding=1&showinfo=0” frameborder="0" allow="autoplay; fullscreen"></iframe>
+        <iframe src="https://www.youtube.com/embed/p7cDN1ofIw0?autoplay=1&mute=1&controls=0&loop=1&playlist=p7cDN1ofIw0&modestbranding=1&showinfo=0" frameborder="0" allow="autoplay; fullscreen"></iframe>
 
         <footer></footer>
       </main>
