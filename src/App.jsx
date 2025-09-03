@@ -42,17 +42,38 @@ function App() {
               <img src={HxH} alt="" className="img-card" />
               <h2 className="titulo-card">coleção semi-nova Hunter x Hunter</h2>
               <p className="desc">Coleçao com 1 ano de vida (estão como novos)</p>
-              <p className="preco">R$  ̶(2̶.̶2̶5̶0̶,̶0̶0̶) 2.025,00</p>
+              <p className="preco">R$(2̶.̶2̶5̶0̶,̶0̶0̶) 2.025,00</p>
               <div className="avaliacao"> ★ ★ ★ ☆ ☆</div>
               <div className="off">- 10%</div>
             </div>
           </a>
         </section>
-        <section className="destaque"></section>
+        <section className="destaque">
 
-        <iframe src="https://www.youtube.com/embed/p7cDN1ofIw0?autoplay=1&mute=1&controls=0&loop=1&playlist=p7cDN1ofIw0&modestbranding=1&showinfo=0" frameborder="0" allow="autoplay; fullscreen"></iframe>
+          <iframe src="https://www.youtube.com/embed/U3Vtf5r9kfU?si=apB_3cMt6mw6zFuV" title="YouTube video player" frameborder="0" allow="autoplay; fullscreen"></iframe>
 
-        <footer></footer>
+        </section>
+        <footer>
+<img src="" alt="" className="logo footer" />
+
+<div className="social-icons">
+
+  <div className="icon">
+    <img src="" alt="" id="instagran" />
+  </div>
+
+  <div className="icon">
+    <img src="" alt="" id="discord" />
+  </div>
+
+  <div className="icon">
+     <img src="" alt="" id="X" />
+  </div>
+  
+  <div className="icon"></div>
+  <img src="" alt="" id="youtube  " />
+</div>
+        </footer>
       </main>
     </>
   )
